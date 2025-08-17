@@ -2,4 +2,5 @@ For new projects:
     1. git init  ===> "Initialize Repository" in the source control section"
     2. git add . ===> "+" symbol in the source control section
     3. git commit -m "commitMessage" ===> "Commit" button in source control section
-    
+    4. git branch -M master & git remote add ===> "..." in source control section -> remote  -> add remote
+    5. git push ===> publish branch in source control section -> "..." in source section
