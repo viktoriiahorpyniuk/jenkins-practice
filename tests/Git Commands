@@ -1,0 +1,5 @@
+For new projects:
+    1. git init  ===> "Initialize Repository" in the source control section"
+    2. git add . ===> "+" symbol in the source control section
+    3. git commit -m "commitMessage" ===> "Commit" button in source control section
+    
